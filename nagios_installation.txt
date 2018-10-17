@@ -103,7 +103,7 @@ Package download/extraction and installation
 
 Client Nagios Installation
 
-    2  yum install epel-release  // extra packages
+    2  yum install epel-release  // Extra Packages for Enterprise Linux
     3  yum repolist
     4  yum install nrpe nagios-plugins-all
     5  vi /etc/nagios/nrpe.cfg
